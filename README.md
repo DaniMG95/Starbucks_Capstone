@@ -3,7 +3,7 @@
 <img src="https://www.merca2.es/wp-content/uploads/2020/04/starbucks-coffee-e1585725335618.jpg">
 
 This repository contains the analysis of starbucks data and the creation of a predictive model to predict which customer will or will not complete a starbucks product offer. 
-The link to this story in my blog [here]()  
+The link to this story in my blog [here](https://medium.com/@dani16595/who-should-you-send-offers-to-42f8e33ae99e)  
 This data will help us to answer 5 questions that we have about the offers in Starbucks and I also encourage to get interesting data to all who are watching this repository.  
 In addition, an exhaustive process of data cleaning had to be carried out, together with class balancing, in order to finally be able to take out the predictive model.  
 This model can help a Starbucks company a lot since it will be able to predict if a client is going to complete an offer and thus send offers only to clients who are going to complete them.
